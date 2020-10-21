@@ -12,6 +12,8 @@
 		<div>관리자</div>
 	</header>
 	<article>본문임다
+		<section>기사1</section>
+		<section>기사2</section>
 	</article>
 	<footer>푸터임다
 	</footer>
