@@ -4,15 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>알파 홈페이지</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<header>헤더임다
-		<div>회원가입</div>
-	</header>
-	<article>본문임다
-	</article>
-	<footer>푸터임다
-	</footer>
+
 </body>
 </html>
